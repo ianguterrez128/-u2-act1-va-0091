@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-Volkswagen-0091.jpg
+Ruta del archivo: C:\IA _Gpo3H\VA_0091\p1-act1-0091\img-original-0091\img-Volkswagen-0091.jpg
+Formato por extension: .JPG
+Tamano en bytes: 36994
+Tamano en KB: 36.13
+Tamano en MB: 0.0353
+
+DIMENSIONES
+-----------
+Ancho: 864 pixeles
+Alto: 432 pixeles
+Resolucion: 864 x 432
+Total de pixeles: 373,248
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 39.99
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 47.41
+Verde (G): 39.32
+Rojo (R): 33.25
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
